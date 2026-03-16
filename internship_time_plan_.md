@@ -5,6 +5,7 @@
 - Mon: join the co-working day (Swinburne uni)
 - Wed: 9:00–12:00 /13:30–18:30 (home)
 - Thu: 9:00–12:00 /13:30–18:30 (home)
+![alt text](image.png)
 
 ## Week 2 (16-20 March 2026)
 - Mon: join the co-working day (Swinburne uni)
