@@ -35,4 +35,5 @@ key info include:
 3.Review full playback; use secure links 
 
 ## If a bug only happens during fast interactions, how would you record and describe it effectively?
-I would record at 60fps; perform actions deliberately but at normal speed, repeat 2-3x or add text overlay or voiceover.
+I would record at 60fps; perform actions deliberately but at normal speed, repeat 2-3x.
+ 
