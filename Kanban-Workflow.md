@@ -20,3 +20,7 @@ set WIP=3 for testing tasks to ficus on high-impact bugs first.
 
 ## Identify one way you can improve task tracking in your role.
 add severity labels for faster bug prioritization.
+
+## screenshot of my Kanban board
+- moved resolved tasks to "Done" session
+![alt text](image-11.png)
