@@ -17,3 +17,10 @@ retrospective, uncover testing gaps, usability issues, and process improvement t
 
 ## Document one change you can make to improve your team collaboration.
 tagging devs and PM for faster cross-timezone input
+yes, I have tried to tag them when i encouter some problem during co-working day, and it really improves the response time.
+
+## Attend stand-up meetings
+March 27 16:15-16:30
+my update: 2 onboarding materials and some revisions left.  
+also ask about my problem with testflight. Jeremy said I don't need to download it for now.  
+haven't have retro meeting yet. 
