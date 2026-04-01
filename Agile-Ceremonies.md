@@ -22,5 +22,7 @@ yes, I have tried to tag them when i encouter some problem during co-working day
 ## Attend stand-up meetings
 March 27 16:15-16:30
 my update: 2 onboarding materials and some revisions left.  
-also ask about my problem with testflight. Jeremy said I don't need to download it for now.  
-haven't have retro meeting yet. 
+also ask about my problem with testflight. Jeremy said I don't need to download it for now.
+
+## Attend retrospective
+have retrospective before at uni, I was also a QA at that project, so the retro mainly discussed what we done well in our last sprint and what can be done better in the next sprint. For instance, one of the retro notes shows that QA test the features really effectively and what can be done better is QA and developer should have a meeting once a while to share the logic of developing and testing, it would make our process of building a product much smoother.
