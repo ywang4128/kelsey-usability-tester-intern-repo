@@ -22,7 +22,14 @@ mobile apps often have:
 to test under stress or low-end conditions, QA can simulate slow CPU or network in Chrome DevTools, test on older devices with limited RAM and storage, or perform bulk actions to see if the app lags or crashes.
 
 ## How would you test Focus Bear’s performance on an older device or a slow internet connection?
-I would put the phone in slow-network mode, test launch time, saving routine while offline, then sunc back online,  and watch for slow transitions, UI freezes, or crashes.
+I would put the phone in slow-network mode, test launch time, saving routine while offline, then sunc back online,  and watch for slow transitions, UI freezes, or crashes.  
+
+hands-on testing:  
+device environment - Macbook Air M3, macOS 26.3.1 (a)   
+Steps- Slow network conditions were simulated using mobile data in a low-signal environment.  
+screenshot-  
+![alt text](IMG_5415.PNG)
+my insight- Under slow network conditions, the Stats page remained in a loading state without providing progress feedback, which made it unclear whether the app was still functioning or stuck.
 
 ## If a user reports that the app feels slow, what steps would you take to investigate?
 I would ask for details, like device, app version, network, and which screen or sction feels slow, and try to reproduce on the same device type or similar specs, use profiling tools to record app-launch time, screen-load times and UI responsiveness, CPU and memory usage, compare the measured metrics against reasonable targets, and create a bug or improvement report with clear data and screenshots.
